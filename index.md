@@ -2,108 +2,107 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <link href="style.css" ref="stylesheet" />
     <title>Voice of America</title>
   </head>
 
   <body>
-    <header>
-
-   <h1>Voice of America</h1>
-  <form>
+<header>
+    <h1>Voice of America</h1>
+    <form>
       <input type="search" placeholder="Search..."/>
       <input type="submit" value="Submit"/>
-   </form>
-    <nav>
+    </form>
+<nav>
     <ul>
-      <li><a href="article.html">Home</a></li>
-      <li><a href="article.html">World</a></li>
-      <li><a href="article.html">Silicon Valley &amp; Tech</a>
-      <li><a href="article.html">Science &amp; Health</a></li>
-      <li><a href="article.html">U.S. Politics</a></li>
-      </ul>
-      </nav>
-      </header>
-<main>
-  <article>
+      <li>Home</li>
+      <li>World</li>
+      <li>Silicon Valley &amp; Tech</li>
+      <li>Science &amp; Health</li>
+      <li>U.S. Politics</li>
+    </ul>
+  </nav>
+    </header>
+   <main> 
     <h2>Silicon Valley &amp; Technology</h2>
-  </article>
-  <article>
-    <h3>Tehran Bans Drones After Security Scares</h3>
-    <img src="400.png" alt="Drones in Tehran"/>
-
-   <p>The Iranian military has banned the unauthorized use of drones in the capital Tehran, after several security scares caused by unpiloted aircraft that are increasingly popular with hobbyists and filmmakers.</p>
-
-   <p><a href="article.html">Read More</a></p>
-</article>
 <article>
-    <h3>Google Makes Internet Balloon ‘Breakthrough’</h3>
-    <img src="400.png" alt="Google balloon!" />
+    <h3>Google Chromebooks on the Rise</h3>
 
-   <p>Google’s parent company, Alphabet, says the company has made a “breakthrough” on its plans to offer Internet access to rural areas via connected balloons through an endeavor called Project Loon.</p>
+   <img src="600.png" alt="Google Chromebooks" />
 
-   <p><a href="article.html">Read More</a></p>
-</article>
-<article>
-    <h3>Zuckerberg's Goal: Remake а World Facebook Helped Create</h3>
-    <img src="400.png" alt="Zuckerberg goal" />
+   <p>A Google Chromebook on display in New York, Feb. 8, 2017. <em>Photo: Google</em>.
+  
+   <p>NEW YORK &mdash; The Google Chromebook, a type of stripped-down laptop, isn't a practical mobile device for many people - mostly because it basically turns into an expensive paperweight whenever it can't find a Wi-Fi connection.</p>
 
-   <p>Mark Zuckerberg helped create the modern world by connecting nearly a quarter of its citizens to Facebook and giving them a platform to share, well, everything - baby pictures and Pepe memes, social updates and abusive bullying, helpful how-to videos and live-streamed violence.</p>
+   <p>Yet Chromebooks have defied expectations and made major inroads in an unexpected environment - U.S. schools.</p>
 
-   <p><a href="article.html">Read More</a></p>
-</article>
-    <section>
-   <aside>
-      <h2>More Stories</h2>
+   <p>In retrospect, that shouldn't be too surprising. Chromebooks are cheap and easy to manage, making them popular with budget-constrained schools with limited tech-support staff. And Wi-Fi is now common enough in U.S. schools and homes to make an internet-dependent device practical for students.</p>
 
-   <h3><a href="article.html">Big Data and the Business of Mind-Reading</a></h3>
-    <img src="300.png" alt="Lots and lots of numbers" />
-      
-   <h3><a href="article.html">Google Chromebooks on Rise</a></h3>
-   <img src="300.png" alt="Google Chromebook" />
-     
-   <h3><a href="article.html">Immediacy Twitter Provides Overrated, Some Experts Say</a></h3>
-   <img src="300.png" alt="Trump tweets" />
-   </aside>
-  </section>
-    </main>
+   <p>Google doesn't want to stop there. It's releasing new models in partnership with Samsung that are designed to appeal to a broader range of consumers. They have several tablet-like features, including a stylus, touch controls and a 360-degree hinge that allows you to turn the screen faceup. One starts selling Sunday for $449; a more powerful version comes out in April for $100 more.</p>
+
+   <p>Google and its manufacturing partners are trying to shed the Chromebook's perception as underperforming budget devices. But even with premium models, expanding beyond U.S. schools won't be easy.</p>
+
+<aside>
+    <h4>More Silicon Valley &amp; Tech News</h4>
+
+   <ul>
+      <li>Tehran Bans Drones After Security Scares</li>
+      <li>Google Makes Internet Balloon ‘Breakthrough’</li>
+      <li>Zuckerberg's Goal: Remake а World Facebook Helped Create</li>
+    </ul>
+  </aside>
+     </article>
+     <section>
+    <h4>Blogs</h4>
+
+   <h5>Techtonics</h5>
+
+   <ul>
+      <li>Tech Goes to Work to Help Europe's Refugees Assimilate</li>
+      <li>Olive Oil Key to a Healthy Heart</li>
+    </ul>
+     </section>
+     </main>
     <footer>
     <h2>Other ways to access VOA</h2>
 
    <ul>
-      <li><a href="article.html">Get our newsletter</a></li>
-      <li><a href="article.html">Subsribe to our podcasts</a></li>
-      <li><a href="article.html">RSS feeds</a></li>
+      <li>Get our newsletter</li>
+      <li>Subsribe to our podcasts</li>
+      <li>RSS feeds</li>
     </ul>
-
+    
    <h2>About this Site</h2>
 
    <ul>
-      <li><a href="article.html">Privacy Notice</a></li>
-      <li><a href="article.html">Abour VOA</a></li>
-      <li><a href="article.html">Contact VOA</a></li>
+      <li>Privacy Notice</li>
+      <li>Abour VOA</li>
+      <li>Contact VOI</li>
     </ul>
 
    <h2>Follow Us</h2>
 
    <ul>
-      <li><a href="article.html">Facebook</a></li>
-      <li><a href="article.html">Twitter</a></li>
-      <li><a href="article.html">YouTube</a></li>
+      <li>Facebook</li>
+      <li>Twitter</li>
+      <li>YouTube</li>
     </ul>
 
    <h2>Site Map</h2>
 
    <ul>
-      <li><a href="article.html">USA</a></li>
-      <li><a href="article.html">Africa</a></li>
-      <li><a href="article.html">Asia</a></li>
-      <li><a href="article.html">Europe</a></li>
-      <li><a href="article.html">Middle East</a></li>
-      <li><a href="article.html">Americas</a></li>
+      <li>USA</li>
+      <li>Africa</li>
+      <li>Asia</li>
+      <li>Europe</li>
+      <li>Middle East</li>
+      <li>Americas</li>
     </ul>
 
-    <p><small>Voice of America Address: 330 Independence Avenue, S.W., Washington, D.C. 20237</small></p>
+   <p>
+      <small>Voice of America Address: 330 Independence Avenue, S.W., Washington, D.C. 20237</small>
+    </p>
     </footer>
 
-</body>
+  </body>
 </html>
